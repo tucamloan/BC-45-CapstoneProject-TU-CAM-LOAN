@@ -1,0 +1,11 @@
+Đặng Minh Triết: 
+-Doing: 
+    +Services page
+    +Single Post page
+    +About page
+    +A half landing page (top)
+Bùi Sỹ Nam Sơn:
+-Doing: 
+    +Blog page
+    +Gallery page
+    +A half landing page (bottom)
